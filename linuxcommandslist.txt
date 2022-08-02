@@ -1,0 +1,7 @@
+ls - listing the files and directories 
+pwd - shows current working directory
+mkdir - new directory will be created
+rmdir - remove directory
+chmod - changes user permission
+cd - change between directory
+
