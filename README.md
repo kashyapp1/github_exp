@@ -5,3 +5,10 @@ lastname:- pancholi
 
 hi kem cho majama?
 manipal,karnataka.
+im from baroda
+dob: 2/1/1999
+
+im in kachori team
+
+---------------------
+
