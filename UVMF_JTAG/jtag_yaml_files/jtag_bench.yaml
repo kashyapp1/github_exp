@@ -1,0 +1,14 @@
+#The test bench YAML data structure contains information about a bench’s name,
+#top-level environment and a host of optional data regarding how to drive clocks
+#and resets as well as active vs. passive mode settings for underlying BFMs.
+uvmf:
+  benches:
+    jtag:
+      top_env: "jtag_env"
+      active_passive:
+      - bfm_name: "jtag_agent"
+        value: ACTIVE
+    
+    
+
+      

@@ -1,0 +1,12 @@
+#The environment YAML data structure contains information about an environment’s name,
+#instantiated components and sub-environments, TLM connectivity and configuration
+uvmf:
+  environments:
+    "jtag_env":
+#agent declaration    
+      agents:
+      - name: "jtag_agent"
+        type: "jtag"
+       
+
+
